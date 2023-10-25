@@ -1,0 +1,50 @@
+
+body{
+    font-family: 'Noto Serif Georgian', serif;
+    font-size: 13px;
+    margin: 0 auto;
+    padding: 0 auto;
+}
+header {
+    text-align: center;}
+
+header p {
+  background-color: rgb(253, 247, 167);
+  padding: 8px 8px;
+  font-size: 60% ;
+  color: rgb(20, 116, 122);
+}
+
+h1 {
+    text-align: center;
+    color: rgb(20, 116, 122);
+}
+
+h2 {
+    border-bottom: 1px solid rgb(39, 133, 128)
+}
+
+aside p {
+    padding-left: 5%;
+    padding-bottom: 5%;
+    border-left: 2px solid orange;
+    font-size: 70%;
+    color: rgb(238, 114, 13);
+}
+
+main, footer {
+    width: 40%;
+    margin: 0 auto;
+    align-items: center;
+}
+li {
+    line-height: 2.0;}
+
+figcaption {
+    color: rgb(138, 136, 136);
+    text-align: center;
+}
+
+video {
+    box-shadow: 5px 5px 5px  rgba(0, 0, 0, 0.432)
+}
